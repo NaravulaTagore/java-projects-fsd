@@ -1,7 +1,8 @@
 # java-projects-fsd
 **Phase-1 Practice Project: Assisted Practice**
 
-1.Writing a program in Java to implement implicit and explicit type casting																		
+1.Writing a program in Java to implement implicit and explicit type casting			
+
 2.Writing a program in Java to implement access modifiers
 
 3.Writing a program in Java to verify implementations of methods and ways of calling a method  
